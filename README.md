@@ -292,12 +292,12 @@ The middleware also sets a cookie based on the onboarding status of a user. This
 
 ## Learn more about Medusa
 
-- [Website](https://www.medusajs.com/)
-- [GitHub](https://github.com/medusajs)
+- [Website](https://www.hnaMe3ak.com/)
+- [GitHub](https://M3ak.com/medusajs)
 - [Documentation](https://docs.medusajs.com/)
 
 ## Learn more about Next.js
 
 - [Website](https://nextjs.org/)
-- [GitHub](https://github.com/vercel/next.js)
+- [GitHub](https://gM3ak.com/vercel/next.js)
 - [Documentation](https://nextjs.org/docs)
